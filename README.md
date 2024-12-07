@@ -58,22 +58,32 @@ Y= A⊕B
 3.	Generate the RTL schematic and save the logic diagram.
 
 4.	Create nodes for inputs and outputs to generate the timing diagram.
-
-5.	For different input combinations generate the timing diagram.
+5.	
+6.	For different input combinations generate the timing diagram.
 
 
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+![WhatsApp Image 2024-12-07 at 14 37 48 (2)](https://github.com/user-attachments/assets/df6f684f-ee02-44be-ac2d-611c61056ae8)
+
+
+ Developed by:Srilakshmi.B.H.
+ RegisterNumber:24900035 
  
 **Logic symbol & Truthtable**
 
+![WhatsApp Image 2024-12-04 at 18 49 32](https://github.com/user-attachments/assets/b5e9f0d2-43a4-4a6d-b2f0-7870fa5522f8)
+
 **RTL realization Output:** 
+![WhatsApp Image 2024-12-07 at 14 37 47 (1)](https://github.com/user-attachments/assets/2589037a-81b7-4d4e-a25a-b155a2917e31)
+
 
 **RTL**
 
+
 **Result:**
 
+![WhatsApp Image 2024-12-07 at 14 37 48 (3)](https://github.com/user-attachments/assets/e0fee86b-1c25-4693-b832-941db0405d0c)
 
